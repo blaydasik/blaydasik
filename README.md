@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26)(https://t.me/Blaydasik)
+![image](https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26)l(https://t.me/Blaydasik)
  
   [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/SerhioKorolev) [![Mail](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:info@skorolev.ru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergei--korolev/)
 
