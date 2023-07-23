@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26" title="Telegram" alt="Telegram" width="40" heigth="40>
+###
+<img src="https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26" title="Telegram" alt="Telegram" width="40" heigth="40>;
 
 [![Telegram](https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26)](https://t.me/Blaydasik)
  
