@@ -1,70 +1,83 @@
 ### Hi there, my name is Aleksei 👋
 
-<!--
-**blaydasik/blaydasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:
 
-Here are some ideas to get you started:
+<img src="https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26" title="Telegram" alt="Telegram" width="60" heigth="60">&nbsp;
+<img src="https://github.com/blaydasik/blaydasik/assets/103077881/7dc622d8-bad5-4188-95d6-b1c4b4295198" title="gamil" alt="gmail" width="60" heigth="60">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I have started learning on the courses from Yandex Practicum on March, 2022 and finished on February, 2023 by delivery of the diploma project
 
+🔭 I’m currently working on my pet project for dog shows and sport competitions with dogs
 
-<img src="https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26" title="Telegram" alt="Telegram" width="40" heigth="40/>;
+### My stack:
 
-[![Telegram](https://github.com/blaydasik/blaydasik/assets/103077881/69841991-a384-4459-943f-131ba26c1a26)](https://t.me/Blaydasik)
- 
-  [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/SerhioKorolev) [![Mail](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:info@skorolev.ru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergei--korolev/)
-
-- В 2022 году я начал учиться на веб-разработчика в Яндекс Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
-- В 2023 я сдал диплом и закончил обучение :sunglasses:. 
-- Сейчас я продолжаю учиться самостоятельно и делаю пет-проекты :dog:	:cat:.
-- Ниже описан мой стек технологий, самые интересные проекты, немного циферок и некоторые факты обо мне.
-
----
-
-###  :pinched_fingers:Мой стек:
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://apps.odoocdn.com/web/image/loempia.module/37657/icon_image/84x84" title="REST API" alt="REST API" width="50" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
-
----
-
-### :volcano:Интересные проекты:
-- [Дипломный проект "Поиск фильмов"](https://github.com/dromgard/movies-explorer-api-full) <img src="https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/ExpressJS-blue?logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS"/> <img src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=white" alt="MongoDB" title="MongoDB"/> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
-- [Проект "Место"](https://github.com/dromgard/react-mesto-api-full) <img src="https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/ExpressJS-blue?logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS"/> <img src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=white" alt="MongoDB" title="MongoDB"/> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
-- [Проект "Gamargoba Tour"](https://github.com/dromgard/gamargoba-tour) <img src="https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
-
----
-
-### <img src="https://i.ibb.co/1GDSn2g/ffb2ef86f49379323b3d9225ff5cb9dc.jpg" width="25" height="25" title="Улиточка" alt="Улиточка"/>Чуть-чуть циферок: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dromgard&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=dromgard&theme=vue-dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-![Codewars](https://www.codewars.com/users/loose._.cannon/badges/large)  
-
----
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>
 
 
-### :man_cartwheeling:Чуть-чуть обо мне:
-- В свободное время я катаюсь на велосипеде или самокате:biking_man:
-- Езжу по России (или за границу):airplane:
-- Занимаюсь спортом:man_cartwheeling:
-- Решаю задачки на codewars:technologist:
-- Читаю книги (по разработке или художку):open_book:
-- И выращиваю домашние цветы:seedling:
+### My educational projects:
+- [Учебный проект для изучения адаптивной вёрстки](https://github.com/blaydasik/russian-travel)
+  
+Проект представляет собой одностраничный сайт, посвященный привлекательности путешествий по России. Включены ссылки на сторонние ресурсы.
+Проект создан для получения представления о способах адаптации веб страниц к просмотру на различных устройствах с разными размерами экранов.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+
+- [Учебный проект для изучения адаптивной вёрстки и JavaScript](https://github.com/blaydasik/mesto)
+
+Проект представляет собой одностраничный сайт, для публикации фотографий из коллекции пользователя.
+Проект создан для совершенствования навыков работы с DOM с использованием функциональных возможностей JavaScript, изучения способов валидации форм, обучения работе с событиями мыши и клаиватуры, обучению основам ООП, обучения клиент-серверному взаимодействию.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="60" height="60"/>
+
+- [Учебный проект для изучения React](https://github.com/blaydasik/mesto-react)
+
+Проект представляет собой одностраничный сайт, для публикации фотографий из коллекции пользователя.
+Проект создан для обучению использования React для разработки одностраничного сайта.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+
+- [Дипломный проект - бэкенд сервиса поиска фильмов по запросу](https://github.com/blaydasik/movies-explorer-api)
+
+Проект представляет собой одностраничный сайт сервиса поиска фильмов по запросу с возможностью сохранения их в личном кабинете.
+Проект создан для закрепления навыков использования React и серверной разработки при создании одностраничного сайта.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>
+
+- [Дипломный проект - фронтэнд сервиса поиска фильмов по запросу](https://github.com/blaydasik/movies-explorer-frontend)
+
+Проект представляет собой одностраничный сайт сервиса поиска фильмов по запросу с возможностью сохранения их в личном кабинете.
+Проект создан для закрепления навыков использования React и серверной разработки при создании одностраничного сайта.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="60" height="60"/>&nbsp;
+
+### Stats: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaydasik&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=blaydasik&theme=vue-dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+
+### Interesting facts:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=my+hobby+is+cynology)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+like+bike+riding,+fishing+and+walking)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=working+in+medical+center)](https://git.io/typing-svg)
